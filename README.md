@@ -4,7 +4,9 @@
 
 ## 在线预览
 
-> GitHub Pages 地址将在部署后填入。
+**https://chevyli.github.io/smoking-harms-dataviz/**
+
+仓库地址：https://github.com/ChevyLi/smoking-harms-dataviz
 
 ## 页面内容
 
